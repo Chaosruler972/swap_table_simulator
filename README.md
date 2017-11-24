@@ -3,6 +3,8 @@
 A software to simulate demand paging and memory management limited to one process (therefore one file and one page table)
 the software also supports "heap and stack" simulation but won't simulate "free" from "heap and stack"
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## How to install:
 	extract the files and move them to a spceified folder, open terminal and use cd command to move to that folder,
